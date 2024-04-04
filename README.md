@@ -1,0 +1,2 @@
+# Sudoku
+OpenCV Sudoku solver
